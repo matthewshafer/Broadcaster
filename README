@@ -1,0 +1,7 @@
+simply adds the ability to update your battle net status by doing
+/bnet status message here
+
+If I wanted to update my battle net status with "we just downed a new raid boss" i would type
+/bnet we just downed a new raid boss
+you can also use the /broadcast
+slash command, it does the same thing.
