@@ -1,0 +1,7 @@
+## Interface: 40000
+## Title: Broadcaster
+## Notes: Broadcasting Battle.net notifications
+## Author: Rageagainst
+## Version: 1
+
+Broadcaster.lua
